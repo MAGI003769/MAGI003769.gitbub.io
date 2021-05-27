@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>音乐 on Quindecim</title>
+    <link>https://example.com/tags/%E9%9F%B3%E4%B9%90/</link>
+    <description>Recent content in 音乐 on Quindecim</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 20 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/tags/%E9%9F%B3%E4%B9%90/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>任我行</title>
+      <link>https://example.com/p/%E4%BB%BB%E6%88%91%E8%A1%8C/</link>
+      <pubDate>Tue, 20 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/p/%E4%BB%BB%E6%88%91%E8%A1%8C/</guid>
+      <description> 从何时开始忌讳空山无人，从何时开始怕仰望星辰。
+ </description>
+    </item>
+    
+  </channel>
+</rss>
